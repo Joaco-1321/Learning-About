@@ -12,24 +12,34 @@ If you'd like to explore my learning journey or follow along as I delve into var
 
 1. **Clone the Repository**: Clone this repository to your local machine using the following command:
 
-   ```bash
-   git clone https://github.com/your-username/Learning-About.git
-   ```
+    ```bash
+    git clone https://github.com/Joaco-1321/Learning-About.git
+    ```
 
 2. **Navigate to a Topic**: Enter the specific topic folder you're interested in:
 
-   ```bash
-   cd Learning-About/Topic-Name/
-   ```
+    ```bash
+    cd Learning-About/Fundamentals/
+    ```
 
-3. **Choose a Programming Language**: Inside the topic folder, you'll find subfolders with the names of different programming languages. Select the programming language you want to explore further:
+3. **Choose a Subtopic**: inside the topic folder, you'll find various subtopics.
 
-   ```bash
-   cd Python/
-   ```
+    ```bash
+    ls
+    Programming-Basics/  Data-Structures/  Algorithms/
+    ```
 
-4. **Explore**: Within the programming language folder, you'll discover insights, documentation, and resources related to my learning process for that specific topic in that programming language.
+4. **Explore**: To explore a specific subtopic, you can follow these steps:
+    - Inside each subtopic, you'll find a **Code** folder, where you can explore code examples in various programming languages.
 
+    - There's also a **README.md** file providing an overview of the subtopic.
+
+    - Depending on the subtopic, you may find additional folders for **Exercises** or **Projects** related to that topic.
+
+    ```bash
+    ls
+    README.md  Code  Exercises
+    ```
 ## Future Considerations
 
 Please note that the structure of topics within this repository may evolve over time. Topics can be part of a bigger topic, which is why I'm considering the structure carefully. This allows for a flexible and hierarchical organization that reflects the interrelated nature of various subjects within Computer Science. Feel free to check back periodically for updates and new content.
